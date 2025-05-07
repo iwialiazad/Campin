@@ -1,0 +1,44 @@
+body {
+  font-family: 'Tahoma', sans-serif;
+  direction: rtl;
+  background: #fefefe;
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+
+header {
+  background: #0077cc;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+section {
+  padding: 1.5rem;
+  border-bottom: 1px solid #ddd;
+}
+
+.pay-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background: #fca311;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  margin-top: 10px;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  font-size: 0.9em;
+  background: #f1f1f1;
+  color: #777;
+}
